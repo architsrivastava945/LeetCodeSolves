@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0165-compare-version-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
