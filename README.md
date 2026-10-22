@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## String Matching
@@ -178,4 +180,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
