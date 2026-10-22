@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0392-is-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
