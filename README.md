@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0076-minimum-window-substring) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0217-contains-duplicate) |
