@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0165-compare-version-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
