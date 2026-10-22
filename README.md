@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
+| [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## Sliding Window
 |  |
 | ------- |
