@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
+## Sliding Window
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
