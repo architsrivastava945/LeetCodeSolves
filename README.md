@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## String Matching
