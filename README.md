@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0392-is-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0135-candy) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Array
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0392-is-subsequence) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
