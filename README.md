@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0165-compare-version-numbers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
