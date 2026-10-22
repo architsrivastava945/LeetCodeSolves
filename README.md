@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## String Matching
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0258-add-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## Sliding Window
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
