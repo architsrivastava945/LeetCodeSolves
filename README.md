@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-count-operations-to-obtain-zero](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2169-count-operations-to-obtain-zero) |
 ## String Matching
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
