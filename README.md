@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
+| [0643-maximum-average-subarray-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0643-maximum-average-subarray-i) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0643-maximum-average-subarray-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
