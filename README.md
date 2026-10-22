@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0424-longest-repeating-character-replacement) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0424-longest-repeating-character-replacement) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0643-maximum-average-subarray-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
