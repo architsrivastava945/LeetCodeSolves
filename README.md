@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0205-isomorphic-strings) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
