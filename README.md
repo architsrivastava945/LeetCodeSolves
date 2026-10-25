@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0643-maximum-average-subarray-i) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0560-subarray-sum-equals-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bit Manipulation
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
