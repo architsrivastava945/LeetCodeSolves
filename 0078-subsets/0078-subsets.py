@@ -1,13 +1,12 @@
 class Solution:
     def subsets(self, nums: list[int]) -> list[list[int]]:
         res = []
-        def fn(i, sbnum):
-            if i == len(nums):
-                res.append(sbnum.copy())
-                return
-            sbnum.append(nums[i])
-            fn(i+1, sbnum)
-            sbnum.pop()
-            fn(i+1, sbnum)
-        fn(0,[])
+        l = len(nums)
+        sscount = 2 ** l
+        for bit in range(sscount):
+            sbnum = []
+            for i in range(l):
+                if (1 << i) & bit:
+                    sbnum.append(nums[i])
+            res.append(sbnum)
         return res
