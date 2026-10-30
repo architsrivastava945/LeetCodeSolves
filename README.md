@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0118-pascals-triangle) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/architsrivastava945/LeetCodeSolves/tree/master/0078-subsets) |
 ## Bucket Sort
 |  |
 | ------- |
