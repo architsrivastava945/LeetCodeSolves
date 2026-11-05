@@ -5,31 +5,14 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
-        i = list1
-        j = list2
-        if not i:
-            return j
-        if not j:
-            return i
-
-        if i.val < j.val:
-            newhead = i
-            i = i.next
+        if not list1:
+            return list2
+        if not list2:
+            return list1
+        if list1.val < list2.val:
+            newhead = list1
+            newhead.next = self.mergeTwoLists(list1.next, list2)
         else:
-            newhead = j
-            j = j.next
-        
-        curr = newhead
-        while i and j:
-            if i.val < j.val:
-                curr.next = i
-                i = i.next
-                curr = curr.next
-            else:
-                curr.next = j
-                j = j.next
-                curr = curr.next
-            
-        curr.next = j if j else i
-
+            newhead = list2
+            newhead.next = self.mergeTwoLists(list1, list2.next)
         return newhead
